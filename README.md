@@ -4,7 +4,7 @@
 
 I build and ship real systems: 40+ websites and custom CRM systems for businesses, serverless backends on Cloudflare Workers, Pages and D1, and AI-assisted development with Claude Code.
 
-🏆 **Outstanding Pitch Award, TAU Med Hackathon 2026** for ClinPass, an AI-powered platform that prepares medical students for their clinical years.
+🏆 **Outstanding Pitch Award, TAU Med Hackathon 2026** for [ClinPass](https://clinflight-os-tau.netlify.app), an AI-powered platform that prepares medical students for their clinical years (live demo, React + TypeScript + Vite).
 
 ## Highlighted projects
 
@@ -13,6 +13,7 @@ I build and ship real systems: 40+ websites and custom CRM systems for businesse
 | [AVL-Tree](https://github.com/omerkonkol/AVL-Tree) | Self-balancing BST with finger search, split and join, all in O(log n) | Python |
 | [Fibonacci-Heap](https://github.com/omerkonkol/Fibonacci-Heap) | Priority queue with configurable lazy modes and O(1) amortized decrease-key | Java |
 | [poker-ai](https://github.com/omerkonkol/poker-ai) | Playable Texas Hold'em against an LLM agent (Claude API or local Ollama) | Python, Streamlit |
+| [ExamPrep](https://try-examprep.com) | AI exam-practice SaaS: past-exam PDFs become multiple-choice practice sets with explanations | Node.js, Supabase, Gemini API, Vercel |
 
 ## Skills
 
