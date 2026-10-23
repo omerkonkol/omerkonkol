@@ -2,7 +2,7 @@
 
 2nd year B.Sc. Computer Science student at **Tel Aviv University** (GPA 88.4), looking for a student software engineering position.
 
-Freelance full-stack developer: 75+ responsive websites and landing pages for small businesses (25+ on client-owned domains) with lead forms, WhatsApp integration and SEO structured data. Built and deployed on Cloudflare: Pages for hosting, Workers and D1 for custom CRM and lead-management systems. AI-assisted development with Claude Code.
+Freelance full-stack developer: designed, developed and deployed 75+ responsive websites and landing pages for real-world clients (25+ custom-domain deployments) with an AI-assisted workflow (Claude Code). Built full-stack applications and custom CRM systems with Cloudflare Workers, D1 and Pages, with backend APIs and lead-capture workflows connecting web forms and WhatsApp to centralized management.
 
 🏆 **Outstanding Pitch Award, TAU Med Hackathon 2026** for [ClinPass](https://clinpass-app.pages.dev), an AI-powered platform that prepares medical students for their clinical years (React, TypeScript, Cloudflare Pages Functions and KV, HeyGen live avatar). [Live demo](https://clinpass-app.pages.dev) · [Project page, docs and film](https://github.com/omerkonkol/clinpass) · [Watch the 2-minute film](https://clinpass-app.pages.dev/v/film.mp4)
 
