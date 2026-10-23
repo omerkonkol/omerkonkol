@@ -4,7 +4,7 @@
 
 I build and ship real systems: 40+ websites and custom CRM systems for businesses, serverless backends on Cloudflare Workers, Pages and D1, and AI-assisted development with Claude Code.
 
-🏆 **Outstanding Pitch Award, TAU Med Hackathon 2026** for [ClinPass](https://clinflight-os-tau.netlify.app), an AI-powered platform that prepares medical students for their clinical years (React + TypeScript + Vite). [Live demo](https://clinflight-os-tau.netlify.app) · [Watch the 2-minute film](https://clinpass-app.pages.dev/v/film.mp4)
+🏆 **Outstanding Pitch Award, TAU Med Hackathon 2026** for [ClinPass](https://clinpass-app.pages.dev), an AI-powered platform that prepares medical students for their clinical years (React + TypeScript + Vite). [Live demo](https://clinpass-app.pages.dev) · [Watch the 2-minute film](https://clinpass-app.pages.dev/v/film.mp4)
 
 ## Highlighted projects
 
