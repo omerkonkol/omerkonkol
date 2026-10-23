@@ -1,0 +1,26 @@
+# Hi, I'm Omer Konkol
+
+2nd year B.Sc. Computer Science student at **Tel Aviv University** (GPA 88.4), looking for a student software engineering position.
+
+I build and ship real systems: 40+ websites and custom CRM systems for businesses, serverless backends on Cloudflare Workers, Pages and D1, and AI-assisted development with Claude Code.
+
+🏆 **Outstanding Pitch Award, TAU Med Hackathon 2026** for ClinPass, an AI-powered platform that prepares medical students for their clinical years.
+
+## Highlighted projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [AVL-Tree](https://github.com/omerkonkol/AVL-Tree) | Self-balancing BST with finger search, split and join, all in O(log n) | Python |
+| [Fibonacci-Heap](https://github.com/omerkonkol/Fibonacci-Heap) | Priority queue with configurable lazy modes and O(1) amortized decrease-key | Java |
+| [poker-ai](https://github.com/omerkonkol/poker-ai) | Playable Texas Hold'em against an LLM agent (Claude API or local Ollama) | Python, Streamlit |
+
+## Skills
+
+- **Languages:** Python, Java, C, SQL
+- **Databases:** PostgreSQL, Supabase, Firebase, Cloudflare D1
+- **Cloud and tools:** Cloudflare Workers and Pages, Git, Docker (basic), Claude Code
+- **Core CS:** OOP, design patterns, data structures, algorithms, complexity analysis
+
+## Contact
+
+omerkol123@gmail.com · [LinkedIn](https://www.linkedin.com/in/omer-konkol-b7679b3a3)
